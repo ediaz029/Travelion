@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485823176620",
+    "project_id": "travelion-4d5bd",
+    "storage_bucket": "travelion-4d5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485823176620:android:06be25c32156f96f71a409",
+        "android_client_info": {
+          "package_name": "com.example.travelion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1pWViyyesH2uca7aKLo-qTsa6U5Cex4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

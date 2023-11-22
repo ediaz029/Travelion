@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_plan"
+        android:icon="@drawable/baseline_flight_takeoff_24"
+        android:title="Plan"
+        />
+    <item
+        android:id="@+id/nav_logs"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="Logs"
+        />
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Explore"
+        />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"
+        />
+</menu>
